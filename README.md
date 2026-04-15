@@ -1,1 +1,1 @@
-# OST_PAC
+"My Project"
